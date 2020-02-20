@@ -1,0 +1,11 @@
+*{
+margin:0 ;
+padding: 0;
+box-sizing: border-box;
+}
+/* Make the image fully responsive */
+.carousel-inner img {
+    width: 100%;
+    height:90vh;
+}
+.edit-img {width:80%; height: 80%;box-shadow: 2px 3px 8px 0px}
